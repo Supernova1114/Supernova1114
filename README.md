@@ -1,4 +1,4 @@
-<img alt="Profile Picture" src="nature_design.png" width=200 align="right">
+<img alt="Profile Picture" src="nature_design.png" width=300 align="right">
 
 ## Tools:
 
