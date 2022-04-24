@@ -1,4 +1,4 @@
-<img alt="Profile Picture" src="Banana Design.png" width=300 height=300 align="right">
+<img alt="Profile Picture" src="nature_design.png" width= 375 align="right">
 
 ## Tools:
 
