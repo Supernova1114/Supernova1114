@@ -1,3 +1,5 @@
+<img alt="Profile Picture" src="Banana Design.png">
+
 ## Tools:
 
 ### Languages
